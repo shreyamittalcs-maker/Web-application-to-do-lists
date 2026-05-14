@@ -53,7 +53,7 @@ The application contains:
 ## Step 1: Download or Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/shreyamittalcs-maker/Web-application-to-do-lists.git
 ```
 
 ---
